@@ -1,6 +1,5 @@
-# dozzle
-Dozzle - Docker-compose
+# Dozzle
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 
